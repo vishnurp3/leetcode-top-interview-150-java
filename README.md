@@ -10,9 +10,10 @@ mvn test
 
 ## Problem Index
 
-| # | Problem | Topic | Solution | Notes |
-|---|---------|-------|----------|-------|
-| 49 | Group Anagrams | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/GroupAnagrams.java` | [Notes](docs/problems/hashmap/0049-group-anagrams.md) |
+| #   | Problem            | Topic    | Solution                                                                           | Notes                                                     |
+|-----|--------------------|----------|------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| 1   | Two Sum            | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/TwoSum.java`            | [Notes](docs/problems/hashmap/0001-two-sum.md)            |
+| 49  | Group Anagrams     | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/GroupAnagrams.java`     | [Notes](docs/problems/hashmap/0049-group-anagrams.md)     |
 | 205 | Isomorphic Strings | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/IsomorphicStrings.java` | [Notes](docs/problems/hashmap/0205-isomorphic-strings.md) |
-| 242 | Valid Anagram | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/ValidAnagram.java` | [Notes](docs/problems/hashmap/0242-valid-anagram.md) |
-| 290 | Word Pattern | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/WordPattern.java` | [Notes](docs/problems/hashmap/0290-word-pattern.md) |
+| 242 | Valid Anagram      | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/ValidAnagram.java`      | [Notes](docs/problems/hashmap/0242-valid-anagram.md)      |
+| 290 | Word Pattern       | Hash Map | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/WordPattern.java`       | [Notes](docs/problems/hashmap/0290-word-pattern.md)       |
