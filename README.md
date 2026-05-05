@@ -14,6 +14,7 @@ mvn test
 |-----|------------------------------|-----------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | 1   | Two Sum                      | Hash Map  | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/TwoSum.java`                     | [Notes](docs/problems/hashmap/0001-two-sum.md)                      |
 | 49  | Group Anagrams               | Hash Map  | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/GroupAnagrams.java`              | [Notes](docs/problems/hashmap/0049-group-anagrams.md)               |
+| 56  | Merge Intervals              | Intervals | `src/main/java/com/vishnu/leetcode/topinterview150/intervals/MergeIntervals.java`           | [Notes](docs/problems/interval/0056-merge-intervals.md)             |
 | 128 | Longest Consecutive Sequence | Hash Map  | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/LongestConsecutiveSequence.java` | [Notes](docs/problems/hashmap/0128-longest-consecutive-sequence.md) |
 | 202 | Happy Number                 | Hash Map  | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/HappyNumber.java`                | [Notes](docs/problems/hashmap/0202-happy-number.md)                 |
 | 205 | Isomorphic Strings           | Hash Map  | `src/main/java/com/vishnu/leetcode/topinterview150/hashmap/IsomorphicStrings.java`          | [Notes](docs/problems/hashmap/0205-isomorphic-strings.md)           |
